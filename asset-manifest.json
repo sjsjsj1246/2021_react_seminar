@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/2021_react_seminar/static/css/main.2beb5c68.chunk.css",
+    "main.js": "/2021_react_seminar/static/js/main.3eeb1a4d.chunk.js",
+    "main.js.map": "/2021_react_seminar/static/js/main.3eeb1a4d.chunk.js.map",
+    "runtime-main.js": "/2021_react_seminar/static/js/runtime-main.f90926cb.js",
+    "runtime-main.js.map": "/2021_react_seminar/static/js/runtime-main.f90926cb.js.map",
+    "static/css/2.586dc536.chunk.css": "/2021_react_seminar/static/css/2.586dc536.chunk.css",
+    "static/js/2.a9e5f61a.chunk.js": "/2021_react_seminar/static/js/2.a9e5f61a.chunk.js",
+    "static/js/2.a9e5f61a.chunk.js.map": "/2021_react_seminar/static/js/2.a9e5f61a.chunk.js.map",
+    "index.html": "/2021_react_seminar/index.html",
+    "static/css/2.586dc536.chunk.css.map": "/2021_react_seminar/static/css/2.586dc536.chunk.css.map",
+    "static/css/main.2beb5c68.chunk.css.map": "/2021_react_seminar/static/css/main.2beb5c68.chunk.css.map",
+    "static/js/2.a9e5f61a.chunk.js.LICENSE.txt": "/2021_react_seminar/static/js/2.a9e5f61a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/2021_react_seminar/static/media/new-tegomin-all-400-normal.181df141.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f90926cb.js",
+    "static/css/2.586dc536.chunk.css",
+    "static/js/2.a9e5f61a.chunk.js",
+    "static/css/main.2beb5c68.chunk.css",
+    "static/js/main.3eeb1a4d.chunk.js"
+  ]
+}
